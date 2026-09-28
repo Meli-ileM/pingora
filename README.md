@@ -29,7 +29,6 @@ Team project (Oct 2024 – Jan 2025), built with the Unified Process methodology
 
 👩‍💻 **My role:** sub-team lead and developer of the **Chat**, **Notifications** and **Posts** modules.
 
-🤝 Original team repository: [sonia010171/versionfinale](https://github.com/sonia010171/versionfinale)
 
 ### ✨ Features
 - 🔐 JWT authentication, Google sign-in with Firebase, password reset
@@ -81,7 +80,6 @@ Projet d'équipe (oct. 2024 – janv. 2025), mené selon la méthode Unified Pro
 
 👩‍💻 **Mon rôle :** cheffe d'un sous-groupe et développeuse des modules **Chat**, **Notifications** et **Publications**.
 
-🤝 Dépôt original de l'équipe : [sonia010171/versionfinale](https://github.com/sonia010171/versionfinale)
 
 ### ✨ Fonctionnalités
 - 🔐 Authentification JWT, connexion Google via Firebase, réinitialisation du mot de passe
